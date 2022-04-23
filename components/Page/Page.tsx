@@ -12,6 +12,7 @@ const Page: FC<Props> = ({ page }) => {
     <>
       <Head>
         <title>{page.title}</title>
+        <meta name="description" content="A website to explain what cussy is"/>
       </Head>
       <div>
         <main>
