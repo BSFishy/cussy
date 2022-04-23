@@ -7,6 +7,9 @@
   </p>
 
 <p>
+  <a href="https://github.com/BSFishy/cussy/deployments?environment=Production">
+    <img src="https://img.shields.io/github/deployments/BSFishy/cussy/production?label=build" alt="build" />
+  </a>
   <a href="https://github.com/BSFishy/cussy/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/BSFishy/cussy" alt="contributors" />
   </a>
