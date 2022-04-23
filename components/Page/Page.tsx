@@ -12,6 +12,7 @@ const Page: FC<Props> = ({ page }) => {
     <>
       <Head>
         <title>{page.title}</title>
+        <meta name="description" content="A website to explain what cussy is"/>
       </Head>
       <div>
         <main>
@@ -24,7 +25,7 @@ const Page: FC<Props> = ({ page }) => {
             ))}
           </section>
         </main>
-        <footer>Made with &#10084;&#65039; by <Link href="https://github.com/BSFishy"><a
+        <footer>Made with &#10084;&#65039; by <Link href="https://github.com/BSFishy/cussy"><a
           target="_blank">MattProvalone</a></Link></footer>
       </div>
       <style jsx>{`
