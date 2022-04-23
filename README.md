@@ -22,7 +22,7 @@
   <a href="https://github.com/BSFishy/cussy/issues/">
     <img src="https://img.shields.io/github/issues/BSFishy/cussy" alt="open issues" />
   </a>
-  <a href="https://github.com/BSFishy/cussy/blob/master/LICENSE">
+  <a href="https://github.com/BSFishy/cussy/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/BSFishy/cussy.svg" alt="license" />
   </a>
 </p>
@@ -113,12 +113,12 @@ See `contributing.md` for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/BSFishy/cussy/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/BSFishy/cussy/blob/main/CODE_OF_CONDUCT.md)
 -->
 
 ## :warning: License
 
-Written using the MIT license. See [`LICENSE`](https://github.com/BSFishy/cussy/blob/master/LICENSE) for more information.
+Written using the MIT license. See [`LICENSE`](https://github.com/BSFishy/cussy/blob/main/LICENSE) for more information.
 
 ## :handshake: Contact
 
